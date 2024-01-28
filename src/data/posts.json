@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "json-server",
+      "title": "It's a title",
+      "content": "It's a content. Iam cat. It's a content. Iam cat. It's a content. Iam cat. It's a content. Iam cat. It's a content. Iam cat. It's a content. Iam cat.",
+      "createdAt": "2024/01/08"
+    },
+    {
+      "id": "cat-server",
+      "title": "cat talk",
+      "content": "Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow",
+      "createdAt": "2024/01/10"
+    },
+    {
+      "id": "neko-server",
+      "title": "猫はどこからきたのか？",
+      "content": "sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text",
+      "createdAt": "2024/01/10"
+    },
+    {
+      "id": "tanuki",
+      "title": "たぬき猫",
+      "content": "たぬきに似ている猫",
+      "createdAt": "2024-01-08T09:26:25.611Z"
+    }
+  ]
+}
